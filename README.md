@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhuvneet
+- 👋 Hi, I’m Bhuvneet :)
 - 🌱 I’m a Software Engineering student.
 - I'm passionate about learning and growing in the technology field.
 - I'm looking for my next internship, from January to August 2024!
